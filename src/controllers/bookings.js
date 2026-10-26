@@ -31,9 +31,9 @@ async function checkRules({ room, band, date, startHour, endHour }, session, exc
   if (!Number.isInteger(startHour) || !Number.isInteger(endHour)) {
     throw new HttpError(400, 'startHour y endHour deben ser enteros');
   }
-  if (endHour <= startHour) throw new HttpError(400, 'endHour debe ser mayor que startHour');
-  if (endHour - startHour > 3) throw new HttpError(400, 'La reserva dura como máximo 3 horas');
-  if (date < today()) throw new HttpError(400, 'La fecha debe ser hoy o un día posterior');
+  if (endHour <= startHour) throw new HttpError(409, 'endHour debe ser mayor que startHour');
+  if (endHour - startHour > 3) throw new HttpError(409, 'La reserva dura como máximo 3 horas');
+  if (date < today()) throw new HttpError(409, 'La fecha debe ser hoy o un día posterior');
 
   assertValidId(room, 'room');
   assertValidId(band, 'band');
@@ -76,7 +76,7 @@ function readEquipment(list) {
       throw new HttpError(400, 'units debe ser un entero mayor que 0');
     }
     if (seen.has(String(line.equipmentId))) {
-      throw new HttpError(400, 'No se puede pedir dos veces el mismo equipo');
+      throw new HttpError(409, 'No se puede pedir dos veces el mismo equipo');
     }
     seen.add(String(line.equipmentId));
   }

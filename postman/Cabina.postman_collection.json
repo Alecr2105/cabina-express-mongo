@@ -111,7 +111,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Sala Norte 49419426\",\n  \"capacity\": 6,\n  \"floor\": 1,\n  \"hasDrumKit\": true,\n  \"status\": \"disponible\",\n  \"_id\": \"6adfc34b5d5194731c1f3918\",\n  \"createdAt\": \"2026-10-26T21:16:59.471Z\",\n  \"updatedAt\": \"2026-10-26T21:16:59.471Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Sala Norte 50445721\",\n  \"capacity\": 6,\n  \"floor\": 1,\n  \"hasDrumKit\": true,\n  \"status\": \"disponible\",\n  \"_id\": \"6adfc74dc461e17cd105eda0\",\n  \"createdAt\": \"2026-10-26T21:34:05.779Z\",\n  \"updatedAt\": \"2026-10-26T21:34:05.779Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -203,7 +203,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Sala Cabina 49419426\",\n  \"capacity\": 1,\n  \"floor\": 2,\n  \"hasDrumKit\": false,\n  \"status\": \"disponible\",\n  \"_id\": \"6adfc34b5d5194731c1f3919\",\n  \"createdAt\": \"2026-10-26T21:16:59.614Z\",\n  \"updatedAt\": \"2026-10-26T21:16:59.614Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Sala Cabina 50445721\",\n  \"capacity\": 1,\n  \"floor\": 2,\n  \"hasDrumKit\": false,\n  \"status\": \"disponible\",\n  \"_id\": \"6adfc74dc461e17cd105eda1\",\n  \"createdAt\": \"2026-10-26T21:34:05.922Z\",\n  \"updatedAt\": \"2026-10-26T21:34:05.922Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -295,7 +295,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Sala Sur 49419426\",\n  \"capacity\": 10,\n  \"floor\": 1,\n  \"hasDrumKit\": false,\n  \"status\": \"mantenimiento\",\n  \"_id\": \"6adfc34b5d5194731c1f391a\",\n  \"createdAt\": \"2026-10-26T21:16:59.737Z\",\n  \"updatedAt\": \"2026-10-26T21:16:59.737Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Sala Sur 50445721\",\n  \"capacity\": 10,\n  \"floor\": 1,\n  \"hasDrumKit\": false,\n  \"status\": \"mantenimiento\",\n  \"_id\": \"6adfc74ec461e17cd105eda2\",\n  \"createdAt\": \"2026-10-26T21:34:06.027Z\",\n  \"updatedAt\": \"2026-10-26T21:34:06.027Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -358,7 +358,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3405d5194731c1f3907\",\n      \"name\": \"Sala Cabina 49407798\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:48.085Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.085Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34b5d5194731c1f3919\",\n      \"name\": \"Sala Cabina 49419426\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:59.614Z\",\n      \"updatedAt\": \"2026-10-26T21:16:59.614Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc33f5d5194731c1f3906\",\n      \"name\": \"Sala Norte 49407798\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:47.921Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.548Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34b5d5194731c1f3918\",\n      \"name\": \"Sala Norte 49419426\",\n      \"capacity\": 6,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:59.471Z\",\n      \"updatedAt\": \"2026-10-26T21:16:59.471Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3405d5194731c1f3908\",\n      \"name\": \"Sala Sur 49407798\",\n      \"capacity\": 10,\n      \"floor\": 1,\n      \"hasDrumKit\": false,\n      \"status\": \"mantenimiento\",\n      \"createdAt\": \"2026-10-26T21:16:48.210Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.210Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34b5d5194731c1f391a\",\n      \"name\": \"Sala Sur 49419426\",\n      \"capacity\": 10,\n      \"floor\": 1,\n      \"hasDrumKit\": false,\n      \"status\": \"mantenimiento\",\n      \"createdAt\": \"2026-10-26T21:16:59.737Z\",\n      \"updatedAt\": \"2026-10-26T21:16:59.737Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 6,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74dc461e17cd105eda1\",\n      \"name\": \"Sala Cabina 50445721\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.922Z\",\n      \"updatedAt\": \"2026-10-26T21:34:05.922Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74dc461e17cd105eda0\",\n      \"name\": \"Sala Norte 50445721\",\n      \"capacity\": 6,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.779Z\",\n      \"updatedAt\": \"2026-10-26T21:34:05.779Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda2\",\n      \"name\": \"Sala Sur 50445721\",\n      \"capacity\": 10,\n      \"floor\": 1,\n      \"hasDrumKit\": false,\n      \"status\": \"mantenimiento\",\n      \"createdAt\": \"2026-10-26T21:34:06.027Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.027Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 3,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -423,7 +423,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"_id\": \"6adfc34b5d5194731c1f3918\",\n  \"name\": \"Sala Norte 49419426\",\n  \"capacity\": 6,\n  \"floor\": 1,\n  \"hasDrumKit\": true,\n  \"status\": \"disponible\",\n  \"createdAt\": \"2026-10-26T21:16:59.471Z\",\n  \"updatedAt\": \"2026-10-26T21:16:59.471Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"_id\": \"6adfc74dc461e17cd105eda0\",\n  \"name\": \"Sala Norte 50445721\",\n  \"capacity\": 6,\n  \"floor\": 1,\n  \"hasDrumKit\": true,\n  \"status\": \"disponible\",\n  \"createdAt\": \"2026-10-26T21:34:05.779Z\",\n  \"updatedAt\": \"2026-10-26T21:34:05.779Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -516,7 +516,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Sala Norte 49419426\",\n  \"capacity\": 8,\n  \"floor\": 1,\n  \"hasDrumKit\": true,\n  \"status\": \"disponible\",\n  \"_id\": \"6adfc34b5d5194731c1f3918\",\n  \"createdAt\": \"2026-10-26T21:16:59.471Z\",\n  \"updatedAt\": \"2026-10-26T21:17:00.085Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Sala Norte 50445721\",\n  \"capacity\": 8,\n  \"floor\": 1,\n  \"hasDrumKit\": true,\n  \"status\": \"disponible\",\n  \"_id\": \"6adfc74dc461e17cd105eda0\",\n  \"createdAt\": \"2026-10-26T21:34:05.779Z\",\n  \"updatedAt\": \"2026-10-26T21:34:06.339Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -608,7 +608,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Sala Temporal 49419426\",\n  \"capacity\": 4,\n  \"floor\": 3,\n  \"hasDrumKit\": false,\n  \"status\": \"disponible\",\n  \"_id\": \"6adfc34c5d5194731c1f391b\",\n  \"createdAt\": \"2026-10-26T21:17:00.223Z\",\n  \"updatedAt\": \"2026-10-26T21:17:00.223Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Sala Temporal 50445721\",\n  \"capacity\": 4,\n  \"floor\": 3,\n  \"hasDrumKit\": false,\n  \"status\": \"disponible\",\n  \"_id\": \"6adfc74ec461e17cd105eda3\",\n  \"createdAt\": \"2026-10-26T21:34:06.458Z\",\n  \"updatedAt\": \"2026-10-26T21:34:06.458Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -771,7 +771,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Los Prismas 49419426\",\n  \"genre\": \"rock\",\n  \"active\": true,\n  \"contactName\": \"Samuel Fernandez\",\n  \"_id\": \"6adfc34c5d5194731c1f391c\",\n  \"createdAt\": \"2026-10-26T21:17:00.460Z\",\n  \"updatedAt\": \"2026-10-26T21:17:00.460Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Los Prismas 50445721\",\n  \"genre\": \"rock\",\n  \"active\": true,\n  \"contactName\": \"Samuel Fernandez\",\n  \"_id\": \"6adfc74ec461e17cd105eda4\",\n  \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n  \"updatedAt\": \"2026-10-26T21:34:06.715Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -863,7 +863,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Coro Central 49419426\",\n  \"genre\": \"coral\",\n  \"active\": false,\n  \"contactName\": \"Alejandro Corrales\",\n  \"_id\": \"6adfc34c5d5194731c1f391d\",\n  \"createdAt\": \"2026-10-26T21:17:00.571Z\",\n  \"updatedAt\": \"2026-10-26T21:17:00.571Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Coro Central 50445721\",\n  \"genre\": \"coral\",\n  \"active\": false,\n  \"contactName\": \"Alejandro Corrales\",\n  \"_id\": \"6adfc74ec461e17cd105eda5\",\n  \"createdAt\": \"2026-10-26T21:34:06.836Z\",\n  \"updatedAt\": \"2026-10-26T21:34:06.836Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -926,7 +926,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3415d5194731c1f390b\",\n      \"name\": \"Coro Central 49407798\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:16:49.033Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.033Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34c5d5194731c1f391d\",\n      \"name\": \"Coro Central 49419426\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:17:00.571Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.571Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3405d5194731c1f390a\",\n      \"name\": \"Los Prismas 49407798\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:16:48.924Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.341Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34c5d5194731c1f391c\",\n      \"name\": \"Los Prismas 49419426\",\n      \"genre\": \"rock\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:17:00.460Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.460Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 4,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda5\",\n      \"name\": \"Coro Central 50445721\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:34:06.836Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.836Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda4\",\n      \"name\": \"Los Prismas 50445721\",\n      \"genre\": \"rock\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.715Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -991,7 +991,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"_id\": \"6adfc34c5d5194731c1f391c\",\n  \"name\": \"Los Prismas 49419426\",\n  \"genre\": \"rock\",\n  \"active\": true,\n  \"contactName\": \"Samuel Fernandez\",\n  \"createdAt\": \"2026-10-26T21:17:00.460Z\",\n  \"updatedAt\": \"2026-10-26T21:17:00.460Z\",\n  \"__v\": 0,\n  \"musicians\": []\n}"
+              "body": "{\n  \"_id\": \"6adfc74ec461e17cd105eda4\",\n  \"name\": \"Los Prismas 50445721\",\n  \"genre\": \"rock\",\n  \"active\": true,\n  \"contactName\": \"Samuel Fernandez\",\n  \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n  \"updatedAt\": \"2026-10-26T21:34:06.715Z\",\n  \"__v\": 0,\n  \"musicians\": []\n}"
             }
           ]
         },
@@ -1084,7 +1084,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Los Prismas 49419426\",\n  \"genre\": \"jazz\",\n  \"active\": true,\n  \"contactName\": \"Samuel Fernandez\",\n  \"_id\": \"6adfc34c5d5194731c1f391c\",\n  \"createdAt\": \"2026-10-26T21:17:00.460Z\",\n  \"updatedAt\": \"2026-10-26T21:17:00.938Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Los Prismas 50445721\",\n  \"genre\": \"jazz\",\n  \"active\": true,\n  \"contactName\": \"Samuel Fernandez\",\n  \"_id\": \"6adfc74ec461e17cd105eda4\",\n  \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n  \"updatedAt\": \"2026-10-26T21:34:07.129Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -1176,7 +1176,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Banda Temporal 49419426\",\n  \"genre\": \"otro\",\n  \"active\": true,\n  \"contactName\": \"Prueba\",\n  \"_id\": \"6adfc34d5d5194731c1f391e\",\n  \"createdAt\": \"2026-10-26T21:17:01.045Z\",\n  \"updatedAt\": \"2026-10-26T21:17:01.045Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Banda Temporal 50445721\",\n  \"genre\": \"otro\",\n  \"active\": true,\n  \"contactName\": \"Prueba\",\n  \"_id\": \"6adfc74fc461e17cd105eda6\",\n  \"createdAt\": \"2026-10-26T21:34:07.236Z\",\n  \"updatedAt\": \"2026-10-26T21:34:07.236Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -1339,7 +1339,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Carlos Vega\",\n  \"instrument\": \"guitarra\",\n  \"email\": \"carlos49419426@cabina.com\",\n  \"band\": \"6adfc34c5d5194731c1f391c\",\n  \"active\": true,\n  \"_id\": \"6adfc34d5d5194731c1f391f\",\n  \"createdAt\": \"2026-10-26T21:17:01.287Z\",\n  \"updatedAt\": \"2026-10-26T21:17:01.287Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Carlos Vega\",\n  \"instrument\": \"guitarra\",\n  \"email\": \"carlos50445721@cabina.com\",\n  \"band\": \"6adfc74ec461e17cd105eda4\",\n  \"active\": true,\n  \"_id\": \"6adfc74fc461e17cd105eda7\",\n  \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n  \"updatedAt\": \"2026-10-26T21:34:07.467Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -1430,7 +1430,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Ana Mora\",\n  \"instrument\": \"bateria\",\n  \"email\": \"ana49419426@cabina.com\",\n  \"band\": \"6adfc34c5d5194731c1f391c\",\n  \"active\": true,\n  \"_id\": \"6adfc34d5d5194731c1f3920\",\n  \"createdAt\": \"2026-10-26T21:17:01.413Z\",\n  \"updatedAt\": \"2026-10-26T21:17:01.413Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Ana Mora\",\n  \"instrument\": \"bateria\",\n  \"email\": \"ana50445721@cabina.com\",\n  \"band\": \"6adfc74ec461e17cd105eda4\",\n  \"active\": true,\n  \"_id\": \"6adfc74fc461e17cd105eda8\",\n  \"createdAt\": \"2026-10-26T21:34:07.590Z\",\n  \"updatedAt\": \"2026-10-26T21:34:07.590Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -1493,7 +1493,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3415d5194731c1f390e\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana49407798@cabina.com\",\n      \"band\": \"6adfc3405d5194731c1f390a\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:16:49.793Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.793Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34d5d5194731c1f3920\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana49419426@cabina.com\",\n      \"band\": \"6adfc34c5d5194731c1f391c\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:17:01.413Z\",\n      \"updatedAt\": \"2026-10-26T21:17:01.413Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3415d5194731c1f390d\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos49407798@cabina.com\",\n      \"band\": \"6adfc3405d5194731c1f390a\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:16:49.686Z\",\n      \"updatedAt\": \"2026-10-26T21:16:50.159Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34d5d5194731c1f391f\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"guitarra\",\n      \"email\": \"carlos49419426@cabina.com\",\n      \"band\": \"6adfc34c5d5194731c1f391c\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:17:01.287Z\",\n      \"updatedAt\": \"2026-10-26T21:17:01.287Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 4,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda8\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.590Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.590Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda7\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"guitarra\",\n      \"email\": \"carlos50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.467Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -1558,7 +1558,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"_id\": \"6adfc34d5d5194731c1f391f\",\n  \"name\": \"Carlos Vega\",\n  \"instrument\": \"guitarra\",\n  \"email\": \"carlos49419426@cabina.com\",\n  \"band\": {\n    \"_id\": \"6adfc34c5d5194731c1f391c\",\n    \"name\": \"Los Prismas 49419426\",\n    \"genre\": \"jazz\",\n    \"active\": true,\n    \"contactName\": \"Samuel Fernandez\",\n    \"createdAt\": \"2026-10-26T21:17:00.460Z\",\n    \"updatedAt\": \"2026-10-26T21:17:00.938Z\",\n    \"__v\": 0\n  },\n  \"active\": true,\n  \"createdAt\": \"2026-10-26T21:17:01.287Z\",\n  \"updatedAt\": \"2026-10-26T21:17:01.287Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"_id\": \"6adfc74fc461e17cd105eda7\",\n  \"name\": \"Carlos Vega\",\n  \"instrument\": \"guitarra\",\n  \"email\": \"carlos50445721@cabina.com\",\n  \"band\": {\n    \"_id\": \"6adfc74ec461e17cd105eda4\",\n    \"name\": \"Los Prismas 50445721\",\n    \"genre\": \"jazz\",\n    \"active\": true,\n    \"contactName\": \"Samuel Fernandez\",\n    \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n    \"updatedAt\": \"2026-10-26T21:34:07.129Z\",\n    \"__v\": 0\n  },\n  \"active\": true,\n  \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n  \"updatedAt\": \"2026-10-26T21:34:07.467Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -1651,7 +1651,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Carlos Vega\",\n  \"instrument\": \"bajo\",\n  \"email\": \"carlos49419426@cabina.com\",\n  \"band\": \"6adfc34c5d5194731c1f391c\",\n  \"active\": true,\n  \"_id\": \"6adfc34d5d5194731c1f391f\",\n  \"createdAt\": \"2026-10-26T21:17:01.287Z\",\n  \"updatedAt\": \"2026-10-26T21:17:01.745Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Carlos Vega\",\n  \"instrument\": \"bajo\",\n  \"email\": \"carlos50445721@cabina.com\",\n  \"band\": \"6adfc74ec461e17cd105eda4\",\n  \"active\": true,\n  \"_id\": \"6adfc74fc461e17cd105eda7\",\n  \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n  \"updatedAt\": \"2026-10-26T21:34:07.869Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -1743,7 +1743,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Luis Rojas\",\n  \"instrument\": \"teclado\",\n  \"email\": \"luis49419426@cabina.com\",\n  \"band\": \"6adfc34c5d5194731c1f391c\",\n  \"active\": true,\n  \"_id\": \"6adfc34d5d5194731c1f3921\",\n  \"createdAt\": \"2026-10-26T21:17:01.872Z\",\n  \"updatedAt\": \"2026-10-26T21:17:01.872Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Luis Rojas\",\n  \"instrument\": \"teclado\",\n  \"email\": \"luis50445721@cabina.com\",\n  \"band\": \"6adfc74ec461e17cd105eda4\",\n  \"active\": true,\n  \"_id\": \"6adfc74fc461e17cd105eda9\",\n  \"createdAt\": \"2026-10-26T21:34:07.981Z\",\n  \"updatedAt\": \"2026-10-26T21:34:07.981Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -1906,7 +1906,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Microfono SM58 49419426\",\n  \"category\": \"audio\",\n  \"totalUnits\": 5,\n  \"_id\": \"6adfc34e5d5194731c1f3922\",\n  \"availableUnits\": 5,\n  \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n  \"updatedAt\": \"2026-10-26T21:17:02.106Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Microfono SM58 50445721\",\n  \"category\": \"audio\",\n  \"totalUnits\": 5,\n  \"_id\": \"6adfc750c461e17cd105edaa\",\n  \"availableUnits\": 5,\n  \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n  \"updatedAt\": \"2026-10-26T21:34:08.223Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -1969,7 +1969,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3425d5194731c1f3910\",\n      \"name\": \"Microfono SM58 49407798\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:16:50.483Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.990Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3922\",\n      \"name\": \"Microfono SM58 49419426\",\n      \"category\": \"audio\",\n      \"totalUnits\": 5,\n      \"availableUnits\": 5,\n      \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n      \"updatedAt\": \"2026-10-26T21:17:02.106Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edaa\",\n      \"name\": \"Microfono SM58 50445721\",\n      \"category\": \"audio\",\n      \"totalUnits\": 5,\n      \"availableUnits\": 5,\n      \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n      \"updatedAt\": \"2026-10-26T21:34:08.223Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -2034,7 +2034,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"_id\": \"6adfc34e5d5194731c1f3922\",\n  \"name\": \"Microfono SM58 49419426\",\n  \"category\": \"audio\",\n  \"totalUnits\": 5,\n  \"availableUnits\": 5,\n  \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n  \"updatedAt\": \"2026-10-26T21:17:02.106Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"_id\": \"6adfc750c461e17cd105edaa\",\n  \"name\": \"Microfono SM58 50445721\",\n  \"category\": \"audio\",\n  \"totalUnits\": 5,\n  \"availableUnits\": 5,\n  \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n  \"updatedAt\": \"2026-10-26T21:34:08.223Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -2127,7 +2127,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Microfono SM58 49419426\",\n  \"category\": \"audio\",\n  \"totalUnits\": 6,\n  \"availableUnits\": 6,\n  \"_id\": \"6adfc34e5d5194731c1f3922\",\n  \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n  \"updatedAt\": \"2026-10-26T21:17:02.440Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Microfono SM58 50445721\",\n  \"category\": \"audio\",\n  \"totalUnits\": 6,\n  \"availableUnits\": 6,\n  \"_id\": \"6adfc750c461e17cd105edaa\",\n  \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n  \"updatedAt\": \"2026-10-26T21:34:08.488Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -2219,7 +2219,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"name\": \"Amplificador 49419426\",\n  \"category\": \"cuerdas\",\n  \"totalUnits\": 2,\n  \"_id\": \"6adfc34e5d5194731c1f3923\",\n  \"availableUnits\": 2,\n  \"createdAt\": \"2026-10-26T21:17:02.533Z\",\n  \"updatedAt\": \"2026-10-26T21:17:02.533Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"name\": \"Amplificador 50445721\",\n  \"category\": \"cuerdas\",\n  \"totalUnits\": 2,\n  \"_id\": \"6adfc750c461e17cd105edab\",\n  \"availableUnits\": 2,\n  \"createdAt\": \"2026-10-26T21:34:08.594Z\",\n  \"updatedAt\": \"2026-10-26T21:34:08.594Z\",\n  \"__v\": 0\n}"
             }
           ]
         },
@@ -2382,7 +2382,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"room\": \"6adfc34b5d5194731c1f3918\",\n  \"band\": \"6adfc34c5d5194731c1f391c\",\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 16,\n  \"endHour\": 18,\n  \"status\": \"apartada\",\n  \"notes\": \"Ensayo para el concierto\",\n  \"_id\": \"6adfc34e5d5194731c1f3924\",\n  \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n  \"updatedAt\": \"2026-10-26T21:17:02.790Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc34e5d5194731c1f3924\",\n  \"loans\": [\n    {\n      \"booking\": \"6adfc34e5d5194731c1f3924\",\n      \"equipment\": \"6adfc34e5d5194731c1f3922\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"_id\": \"6adfc34e5d5194731c1f3925\",\n      \"createdAt\": \"2026-10-26T21:17:02.795Z\",\n      \"updatedAt\": \"2026-10-26T21:17:02.795Z\",\n      \"__v\": 0\n    }\n  ]\n}"
+              "body": "{\n  \"room\": \"6adfc74dc461e17cd105eda0\",\n  \"band\": \"6adfc74ec461e17cd105eda4\",\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 16,\n  \"endHour\": 18,\n  \"status\": \"apartada\",\n  \"notes\": \"Ensayo para el concierto\",\n  \"_id\": \"6adfc750c461e17cd105edac\",\n  \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n  \"updatedAt\": \"2026-10-26T21:34:08.853Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc750c461e17cd105edac\",\n  \"loans\": [\n    {\n      \"booking\": \"6adfc750c461e17cd105edac\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"_id\": \"6adfc750c461e17cd105edad\",\n      \"createdAt\": \"2026-10-26T21:34:08.854Z\",\n      \"updatedAt\": \"2026-10-26T21:34:08.854Z\",\n      \"__v\": 0\n    }\n  ]\n}"
             }
           ]
         },
@@ -2456,7 +2456,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3925\",\n      \"booking\": \"6adfc34e5d5194731c1f3924\",\n      \"equipment\": \"6adfc34e5d5194731c1f3922\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:17:02.795Z\",\n      \"updatedAt\": \"2026-10-26T21:17:02.795Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edad\",\n      \"booking\": \"6adfc750c461e17cd105edac\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:34:08.854Z\",\n      \"updatedAt\": \"2026-10-26T21:34:08.854Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -2519,7 +2519,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3914\",\n      \"room\": {\n        \"_id\": \"6adfc33f5d5194731c1f3906\",\n        \"name\": \"Sala Norte 49407798\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc3405d5194731c1f390a\",\n        \"name\": \"Los Prismas 49407798\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 10,\n      \"endHour\": 12,\n      \"status\": \"cancelada\",\n      \"createdAt\": \"2026-10-26T21:16:51.860Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.983Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc3435d5194731c1f3914\"\n    },\n    {\n      \"_id\": \"6adfc3435d5194731c1f3912\",\n      \"room\": {\n        \"_id\": \"6adfc33f5d5194731c1f3906\",\n        \"name\": \"Sala Norte 49407798\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc3405d5194731c1f390a\",\n        \"name\": \"Los Prismas 49407798\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:16:51.137Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.699Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc3435d5194731c1f3912\"\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3924\",\n      \"room\": {\n        \"_id\": \"6adfc34b5d5194731c1f3918\",\n        \"name\": \"Sala Norte 49419426\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc34c5d5194731c1f391c\",\n        \"name\": \"Los Prismas 49419426\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 16,\n      \"endHour\": 18,\n      \"status\": \"apartada\",\n      \"notes\": \"Ensayo para el concierto\",\n      \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n      \"updatedAt\": \"2026-10-26T21:17:02.790Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc34e5d5194731c1f3924\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 3,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edac\",\n      \"room\": {\n        \"_id\": \"6adfc74dc461e17cd105eda0\",\n        \"name\": \"Sala Norte 50445721\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc74ec461e17cd105eda4\",\n        \"name\": \"Los Prismas 50445721\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 16,\n      \"endHour\": 18,\n      \"status\": \"apartada\",\n      \"notes\": \"Ensayo para el concierto\",\n      \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n      \"updatedAt\": \"2026-10-26T21:34:08.853Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc750c461e17cd105edac\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -2584,7 +2584,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"_id\": \"6adfc34e5d5194731c1f3924\",\n  \"room\": {\n    \"_id\": \"6adfc34b5d5194731c1f3918\",\n    \"name\": \"Sala Norte 49419426\",\n    \"capacity\": 8,\n    \"status\": \"disponible\"\n  },\n  \"band\": {\n    \"_id\": \"6adfc34c5d5194731c1f391c\",\n    \"name\": \"Los Prismas 49419426\",\n    \"genre\": \"jazz\",\n    \"musicians\": [\n      {\n        \"_id\": \"6adfc34d5d5194731c1f391f\",\n        \"name\": \"Carlos Vega\",\n        \"instrument\": \"bajo\",\n        \"email\": \"carlos49419426@cabina.com\",\n        \"band\": \"6adfc34c5d5194731c1f391c\",\n        \"active\": true,\n        \"createdAt\": \"2026-10-26T21:17:01.287Z\",\n        \"updatedAt\": \"2026-10-26T21:17:01.745Z\",\n        \"__v\": 0\n      },\n      {\n        \"_id\": \"6adfc34d5d5194731c1f3920\",\n        \"name\": \"Ana Mora\",\n        \"instrument\": \"bateria\",\n        \"email\": \"ana49419426@cabina.com\",\n        \"band\": \"6adfc34c5d5194731c1f391c\",\n        \"active\": true,\n        \"createdAt\": \"2026-10-26T21:17:01.413Z\",\n        \"updatedAt\": \"2026-10-26T21:17:01.413Z\",\n        \"__v\": 0\n      }\n    ]\n  },\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 16,\n  \"endHour\": 18,\n  \"status\": \"apartada\",\n  \"notes\": \"Ensayo para el concierto\",\n  \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n  \"updatedAt\": \"2026-10-26T21:17:02.790Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc34e5d5194731c1f3924\",\n  \"loans\": [\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3925\",\n      \"booking\": \"6adfc34e5d5194731c1f3924\",\n      \"equipment\": {\n        \"_id\": \"6adfc34e5d5194731c1f3922\",\n        \"name\": \"Microfono SM58 49419426\",\n        \"category\": \"audio\",\n        \"totalUnits\": 6,\n        \"availableUnits\": 4,\n        \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n        \"updatedAt\": \"2026-10-26T21:17:02.798Z\",\n        \"__v\": 0\n      },\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:17:02.795Z\",\n      \"updatedAt\": \"2026-10-26T21:17:02.795Z\",\n      \"__v\": 0\n    }\n  ]\n}"
+              "body": "{\n  \"_id\": \"6adfc750c461e17cd105edac\",\n  \"room\": {\n    \"_id\": \"6adfc74dc461e17cd105eda0\",\n    \"name\": \"Sala Norte 50445721\",\n    \"capacity\": 8,\n    \"status\": \"disponible\"\n  },\n  \"band\": {\n    \"_id\": \"6adfc74ec461e17cd105eda4\",\n    \"name\": \"Los Prismas 50445721\",\n    \"genre\": \"jazz\",\n    \"musicians\": [\n      {\n        \"_id\": \"6adfc74fc461e17cd105eda7\",\n        \"name\": \"Carlos Vega\",\n        \"instrument\": \"bajo\",\n        \"email\": \"carlos50445721@cabina.com\",\n        \"band\": \"6adfc74ec461e17cd105eda4\",\n        \"active\": true,\n        \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n        \"updatedAt\": \"2026-10-26T21:34:07.869Z\",\n        \"__v\": 0\n      },\n      {\n        \"_id\": \"6adfc74fc461e17cd105eda8\",\n        \"name\": \"Ana Mora\",\n        \"instrument\": \"bateria\",\n        \"email\": \"ana50445721@cabina.com\",\n        \"band\": \"6adfc74ec461e17cd105eda4\",\n        \"active\": true,\n        \"createdAt\": \"2026-10-26T21:34:07.590Z\",\n        \"updatedAt\": \"2026-10-26T21:34:07.590Z\",\n        \"__v\": 0\n      }\n    ]\n  },\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 16,\n  \"endHour\": 18,\n  \"status\": \"apartada\",\n  \"notes\": \"Ensayo para el concierto\",\n  \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n  \"updatedAt\": \"2026-10-26T21:34:08.853Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc750c461e17cd105edac\",\n  \"loans\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edad\",\n      \"booking\": \"6adfc750c461e17cd105edac\",\n      \"equipment\": {\n        \"_id\": \"6adfc750c461e17cd105edaa\",\n        \"name\": \"Microfono SM58 50445721\",\n        \"category\": \"audio\",\n        \"totalUnits\": 6,\n        \"availableUnits\": 4,\n        \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n        \"updatedAt\": \"2026-10-26T21:34:08.855Z\",\n        \"__v\": 0\n      },\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:34:08.854Z\",\n      \"updatedAt\": \"2026-10-26T21:34:08.854Z\",\n      \"__v\": 0\n    }\n  ]\n}"
             }
           ]
         },
@@ -2677,7 +2677,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"_id\": \"6adfc34e5d5194731c1f3924\",\n  \"room\": \"6adfc34b5d5194731c1f3918\",\n  \"band\": \"6adfc34c5d5194731c1f391c\",\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 15,\n  \"endHour\": 17,\n  \"status\": \"apartada\",\n  \"notes\": \"Ensayo general\",\n  \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n  \"updatedAt\": \"2026-10-26T21:17:03.368Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc34e5d5194731c1f3924\"\n}"
+              "body": "{\n  \"_id\": \"6adfc750c461e17cd105edac\",\n  \"room\": \"6adfc74dc461e17cd105eda0\",\n  \"band\": \"6adfc74ec461e17cd105eda4\",\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 15,\n  \"endHour\": 17,\n  \"status\": \"apartada\",\n  \"notes\": \"Ensayo general\",\n  \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n  \"updatedAt\": \"2026-10-26T21:34:09.256Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc750c461e17cd105edac\"\n}"
             }
           ]
         },
@@ -2770,7 +2770,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"_id\": \"6adfc34e5d5194731c1f3924\",\n  \"room\": \"6adfc34b5d5194731c1f3918\",\n  \"band\": \"6adfc34c5d5194731c1f391c\",\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 15,\n  \"endHour\": 17,\n  \"status\": \"confirmada\",\n  \"notes\": \"Ensayo general\",\n  \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n  \"updatedAt\": \"2026-10-26T21:17:03.510Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc34e5d5194731c1f3924\"\n}"
+              "body": "{\n  \"_id\": \"6adfc750c461e17cd105edac\",\n  \"room\": \"6adfc74dc461e17cd105eda0\",\n  \"band\": \"6adfc74ec461e17cd105eda4\",\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 15,\n  \"endHour\": 17,\n  \"status\": \"confirmada\",\n  \"notes\": \"Ensayo general\",\n  \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n  \"updatedAt\": \"2026-10-26T21:34:09.372Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc750c461e17cd105edac\"\n}"
             }
           ]
         },
@@ -2862,7 +2862,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"room\": \"6adfc34b5d5194731c1f3918\",\n  \"band\": \"6adfc34c5d5194731c1f391c\",\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 10,\n  \"endHour\": 12,\n  \"status\": \"apartada\",\n  \"_id\": \"6adfc34f5d5194731c1f3926\",\n  \"createdAt\": \"2026-10-26T21:17:03.675Z\",\n  \"updatedAt\": \"2026-10-26T21:17:03.675Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc34f5d5194731c1f3926\",\n  \"loans\": [\n    {\n      \"booking\": \"6adfc34f5d5194731c1f3926\",\n      \"equipment\": \"6adfc34e5d5194731c1f3922\",\n      \"units\": 1,\n      \"status\": \"prestado\",\n      \"_id\": \"6adfc34f5d5194731c1f3927\",\n      \"createdAt\": \"2026-10-26T21:17:03.680Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.680Z\",\n      \"__v\": 0\n    }\n  ]\n}"
+              "body": "{\n  \"room\": \"6adfc74dc461e17cd105eda0\",\n  \"band\": \"6adfc74ec461e17cd105eda4\",\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 10,\n  \"endHour\": 12,\n  \"status\": \"apartada\",\n  \"_id\": \"6adfc751c461e17cd105edae\",\n  \"createdAt\": \"2026-10-26T21:34:09.484Z\",\n  \"updatedAt\": \"2026-10-26T21:34:09.484Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc751c461e17cd105edae\",\n  \"loans\": [\n    {\n      \"booking\": \"6adfc751c461e17cd105edae\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 1,\n      \"status\": \"prestado\",\n      \"_id\": \"6adfc751c461e17cd105edaf\",\n      \"createdAt\": \"2026-10-26T21:34:09.486Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.486Z\",\n      \"__v\": 0\n    }\n  ]\n}"
             }
           ]
         },
@@ -2929,7 +2929,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"_id\": \"6adfc34f5d5194731c1f3926\",\n  \"room\": \"6adfc34b5d5194731c1f3918\",\n  \"band\": \"6adfc34c5d5194731c1f391c\",\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 10,\n  \"endHour\": 12,\n  \"status\": \"cancelada\",\n  \"createdAt\": \"2026-10-26T21:17:03.675Z\",\n  \"updatedAt\": \"2026-10-26T21:17:03.826Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc34f5d5194731c1f3926\",\n  \"loans\": [\n    {\n      \"_id\": \"6adfc34f5d5194731c1f3927\",\n      \"booking\": \"6adfc34f5d5194731c1f3926\",\n      \"equipment\": \"6adfc34e5d5194731c1f3922\",\n      \"units\": 1,\n      \"status\": \"devuelto\",\n      \"createdAt\": \"2026-10-26T21:17:03.680Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.839Z\",\n      \"__v\": 0\n    }\n  ]\n}"
+              "body": "{\n  \"_id\": \"6adfc751c461e17cd105edae\",\n  \"room\": \"6adfc74dc461e17cd105eda0\",\n  \"band\": \"6adfc74ec461e17cd105eda4\",\n  \"date\": \"2026-11-05T00:00:00.000Z\",\n  \"startHour\": 10,\n  \"endHour\": 12,\n  \"status\": \"cancelada\",\n  \"createdAt\": \"2026-10-26T21:34:09.484Z\",\n  \"updatedAt\": \"2026-10-26T21:34:09.592Z\",\n  \"__v\": 0,\n  \"durationHours\": 2,\n  \"id\": \"6adfc751c461e17cd105edae\",\n  \"loans\": [\n    {\n      \"_id\": \"6adfc751c461e17cd105edaf\",\n      \"booking\": \"6adfc751c461e17cd105edae\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 1,\n      \"status\": \"devuelto\",\n      \"createdAt\": \"2026-10-26T21:34:09.486Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.596Z\",\n      \"__v\": 0\n    }\n  ]\n}"
             }
           ]
         },
@@ -2994,7 +2994,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"_id\": \"6adfc34e5d5194731c1f3925\",\n  \"booking\": {\n    \"_id\": \"6adfc34e5d5194731c1f3924\",\n    \"room\": \"6adfc34b5d5194731c1f3918\",\n    \"band\": \"6adfc34c5d5194731c1f391c\",\n    \"date\": \"2026-11-05T00:00:00.000Z\",\n    \"startHour\": 15,\n    \"endHour\": 17,\n    \"status\": \"confirmada\",\n    \"notes\": \"Ensayo general\",\n    \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n    \"updatedAt\": \"2026-10-26T21:17:03.510Z\",\n    \"__v\": 0,\n    \"durationHours\": 2,\n    \"id\": \"6adfc34e5d5194731c1f3924\"\n  },\n  \"equipment\": {\n    \"_id\": \"6adfc34e5d5194731c1f3922\",\n    \"name\": \"Microfono SM58 49419426\",\n    \"category\": \"audio\",\n    \"totalUnits\": 6,\n    \"availableUnits\": 4,\n    \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n    \"updatedAt\": \"2026-10-26T21:17:03.836Z\",\n    \"__v\": 0\n  },\n  \"units\": 2,\n  \"status\": \"prestado\",\n  \"createdAt\": \"2026-10-26T21:17:02.795Z\",\n  \"updatedAt\": \"2026-10-26T21:17:02.795Z\",\n  \"__v\": 0\n}"
+              "body": "{\n  \"_id\": \"6adfc750c461e17cd105edad\",\n  \"booking\": {\n    \"_id\": \"6adfc750c461e17cd105edac\",\n    \"room\": \"6adfc74dc461e17cd105eda0\",\n    \"band\": \"6adfc74ec461e17cd105eda4\",\n    \"date\": \"2026-11-05T00:00:00.000Z\",\n    \"startHour\": 15,\n    \"endHour\": 17,\n    \"status\": \"confirmada\",\n    \"notes\": \"Ensayo general\",\n    \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n    \"updatedAt\": \"2026-10-26T21:34:09.372Z\",\n    \"__v\": 0,\n    \"durationHours\": 2,\n    \"id\": \"6adfc750c461e17cd105edac\"\n  },\n  \"equipment\": {\n    \"_id\": \"6adfc750c461e17cd105edaa\",\n    \"name\": \"Microfono SM58 50445721\",\n    \"category\": \"audio\",\n    \"totalUnits\": 6,\n    \"availableUnits\": 4,\n    \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n    \"updatedAt\": \"2026-10-26T21:34:09.595Z\",\n    \"__v\": 0\n  },\n  \"units\": 2,\n  \"status\": \"prestado\",\n  \"createdAt\": \"2026-10-26T21:34:08.854Z\",\n  \"updatedAt\": \"2026-10-26T21:34:08.854Z\",\n  \"__v\": 0\n}"
             }
           ]
         }
@@ -3081,7 +3081,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3405d5194731c1f3907\",\n      \"name\": \"Sala Cabina 49407798\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:48.085Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.085Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 6,\n  \"pages\": 6\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74dc461e17cd105eda1\",\n      \"name\": \"Sala Cabina 50445721\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.922Z\",\n      \"updatedAt\": \"2026-10-26T21:34:05.922Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 3,\n  \"pages\": 3\n}"
             }
           ]
         },
@@ -3162,7 +3162,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc34b5d5194731c1f3919\",\n      \"name\": \"Sala Cabina 49419426\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:59.614Z\",\n      \"updatedAt\": \"2026-10-26T21:16:59.614Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 6,\n  \"pages\": 6\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74dc461e17cd105eda0\",\n      \"name\": \"Sala Norte 50445721\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.779Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.339Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 3,\n  \"pages\": 3\n}"
             }
           ]
         },
@@ -3235,7 +3235,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3405d5194731c1f3907\",\n      \"name\": \"Sala Cabina 49407798\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:48.085Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.085Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34b5d5194731c1f3919\",\n      \"name\": \"Sala Cabina 49419426\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:59.614Z\",\n      \"updatedAt\": \"2026-10-26T21:16:59.614Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc33f5d5194731c1f3906\",\n      \"name\": \"Sala Norte 49407798\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:47.921Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.548Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34b5d5194731c1f3918\",\n      \"name\": \"Sala Norte 49419426\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:59.471Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.085Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3405d5194731c1f3908\",\n      \"name\": \"Sala Sur 49407798\",\n      \"capacity\": 10,\n      \"floor\": 1,\n      \"hasDrumKit\": false,\n      \"status\": \"mantenimiento\",\n      \"createdAt\": \"2026-10-26T21:16:48.210Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.210Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34b5d5194731c1f391a\",\n      \"name\": \"Sala Sur 49419426\",\n      \"capacity\": 10,\n      \"floor\": 1,\n      \"hasDrumKit\": false,\n      \"status\": \"mantenimiento\",\n      \"createdAt\": \"2026-10-26T21:16:59.737Z\",\n      \"updatedAt\": \"2026-10-26T21:16:59.737Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 6,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74dc461e17cd105eda1\",\n      \"name\": \"Sala Cabina 50445721\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.922Z\",\n      \"updatedAt\": \"2026-10-26T21:34:05.922Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74dc461e17cd105eda0\",\n      \"name\": \"Sala Norte 50445721\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.779Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.339Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda2\",\n      \"name\": \"Sala Sur 50445721\",\n      \"capacity\": 10,\n      \"floor\": 1,\n      \"hasDrumKit\": false,\n      \"status\": \"mantenimiento\",\n      \"createdAt\": \"2026-10-26T21:34:06.027Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.027Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 3,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -3308,7 +3308,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3405d5194731c1f3908\",\n      \"name\": \"Sala Sur 49407798\",\n      \"capacity\": 10,\n      \"floor\": 1,\n      \"hasDrumKit\": false,\n      \"status\": \"mantenimiento\",\n      \"createdAt\": \"2026-10-26T21:16:48.210Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.210Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34b5d5194731c1f391a\",\n      \"name\": \"Sala Sur 49419426\",\n      \"capacity\": 10,\n      \"floor\": 1,\n      \"hasDrumKit\": false,\n      \"status\": \"mantenimiento\",\n      \"createdAt\": \"2026-10-26T21:16:59.737Z\",\n      \"updatedAt\": \"2026-10-26T21:16:59.737Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc33f5d5194731c1f3906\",\n      \"name\": \"Sala Norte 49407798\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:47.921Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.548Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34b5d5194731c1f3918\",\n      \"name\": \"Sala Norte 49419426\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:59.471Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.085Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3405d5194731c1f3907\",\n      \"name\": \"Sala Cabina 49407798\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:48.085Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.085Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34b5d5194731c1f3919\",\n      \"name\": \"Sala Cabina 49419426\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:59.614Z\",\n      \"updatedAt\": \"2026-10-26T21:16:59.614Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 6,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda2\",\n      \"name\": \"Sala Sur 50445721\",\n      \"capacity\": 10,\n      \"floor\": 1,\n      \"hasDrumKit\": false,\n      \"status\": \"mantenimiento\",\n      \"createdAt\": \"2026-10-26T21:34:06.027Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.027Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74dc461e17cd105eda0\",\n      \"name\": \"Sala Norte 50445721\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.779Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.339Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74dc461e17cd105eda1\",\n      \"name\": \"Sala Cabina 50445721\",\n      \"capacity\": 1,\n      \"floor\": 2,\n      \"hasDrumKit\": false,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.922Z\",\n      \"updatedAt\": \"2026-10-26T21:34:05.922Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 3,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -3381,7 +3381,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc33f5d5194731c1f3906\",\n      \"name\": \"Sala Norte 49407798\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:47.921Z\",\n      \"updatedAt\": \"2026-10-26T21:16:48.548Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34b5d5194731c1f3918\",\n      \"name\": \"Sala Norte 49419426\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:59.471Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.085Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74dc461e17cd105eda0\",\n      \"name\": \"Sala Norte 50445721\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.779Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.339Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -3535,7 +3535,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3415d5194731c1f390b\",\n      \"name\": \"Coro Central 49407798\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:16:49.033Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.033Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 4,\n  \"pages\": 4\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda5\",\n      \"name\": \"Coro Central 50445721\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:34:06.836Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.836Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 2,\n  \"pages\": 2\n}"
             }
           ]
         },
@@ -3616,7 +3616,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc34c5d5194731c1f391d\",\n      \"name\": \"Coro Central 49419426\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:17:00.571Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.571Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 4,\n  \"pages\": 4\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda4\",\n      \"name\": \"Los Prismas 50445721\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.129Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 2,\n  \"pages\": 2\n}"
             }
           ]
         },
@@ -3689,7 +3689,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3415d5194731c1f390b\",\n      \"name\": \"Coro Central 49407798\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:16:49.033Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.033Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34c5d5194731c1f391d\",\n      \"name\": \"Coro Central 49419426\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:17:00.571Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.571Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3405d5194731c1f390a\",\n      \"name\": \"Los Prismas 49407798\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:16:48.924Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.341Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34c5d5194731c1f391c\",\n      \"name\": \"Los Prismas 49419426\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:17:00.460Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.938Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 4,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda5\",\n      \"name\": \"Coro Central 50445721\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:34:06.836Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.836Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda4\",\n      \"name\": \"Los Prismas 50445721\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.129Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -3762,7 +3762,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc34c5d5194731c1f391c\",\n      \"name\": \"Los Prismas 49419426\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:17:00.460Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.938Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3405d5194731c1f390a\",\n      \"name\": \"Los Prismas 49407798\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:16:48.924Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.341Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34c5d5194731c1f391d\",\n      \"name\": \"Coro Central 49419426\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:17:00.571Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.571Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3415d5194731c1f390b\",\n      \"name\": \"Coro Central 49407798\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:16:49.033Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.033Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 4,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda4\",\n      \"name\": \"Los Prismas 50445721\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.129Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda5\",\n      \"name\": \"Coro Central 50445721\",\n      \"genre\": \"coral\",\n      \"active\": false,\n      \"contactName\": \"Alejandro Corrales\",\n      \"createdAt\": \"2026-10-26T21:34:06.836Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.836Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -3835,7 +3835,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3405d5194731c1f390a\",\n      \"name\": \"Los Prismas 49407798\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:16:48.924Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.341Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34c5d5194731c1f391c\",\n      \"name\": \"Los Prismas 49419426\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:17:00.460Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.938Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74ec461e17cd105eda4\",\n      \"name\": \"Los Prismas 50445721\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.129Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -3989,7 +3989,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3415d5194731c1f390e\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana49407798@cabina.com\",\n      \"band\": \"6adfc3405d5194731c1f390a\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:16:49.793Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.793Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 4,\n  \"pages\": 4\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda8\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.590Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.590Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 2,\n  \"pages\": 2\n}"
             }
           ]
         },
@@ -4070,7 +4070,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3415d5194731c1f390e\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana49407798@cabina.com\",\n      \"band\": \"6adfc3405d5194731c1f390a\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:16:49.793Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.793Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 4,\n  \"pages\": 4\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda7\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.869Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 2,\n  \"pages\": 2\n}"
             }
           ]
         },
@@ -4143,7 +4143,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3415d5194731c1f390d\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos49407798@cabina.com\",\n      \"band\": \"6adfc3405d5194731c1f390a\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:16:49.686Z\",\n      \"updatedAt\": \"2026-10-26T21:16:50.159Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34d5d5194731c1f391f\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos49419426@cabina.com\",\n      \"band\": \"6adfc34c5d5194731c1f391c\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:17:01.287Z\",\n      \"updatedAt\": \"2026-10-26T21:17:01.745Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3415d5194731c1f390e\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana49407798@cabina.com\",\n      \"band\": \"6adfc3405d5194731c1f390a\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:16:49.793Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.793Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34d5d5194731c1f3920\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana49419426@cabina.com\",\n      \"band\": \"6adfc34c5d5194731c1f391c\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:17:01.413Z\",\n      \"updatedAt\": \"2026-10-26T21:17:01.413Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 4,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda7\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.869Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda8\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.590Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.590Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -4216,7 +4216,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3415d5194731c1f390e\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana49407798@cabina.com\",\n      \"band\": \"6adfc3405d5194731c1f390a\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:16:49.793Z\",\n      \"updatedAt\": \"2026-10-26T21:16:49.793Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34d5d5194731c1f3920\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana49419426@cabina.com\",\n      \"band\": \"6adfc34c5d5194731c1f391c\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:17:01.413Z\",\n      \"updatedAt\": \"2026-10-26T21:17:01.413Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3415d5194731c1f390d\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos49407798@cabina.com\",\n      \"band\": \"6adfc3405d5194731c1f390a\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:16:49.686Z\",\n      \"updatedAt\": \"2026-10-26T21:16:50.159Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34d5d5194731c1f391f\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos49419426@cabina.com\",\n      \"band\": \"6adfc34c5d5194731c1f391c\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:17:01.287Z\",\n      \"updatedAt\": \"2026-10-26T21:17:01.745Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 4,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda8\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.590Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.590Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda7\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.869Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -4289,7 +4289,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3415d5194731c1f390d\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos49407798@cabina.com\",\n      \"band\": \"6adfc3405d5194731c1f390a\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:16:49.686Z\",\n      \"updatedAt\": \"2026-10-26T21:16:50.159Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34d5d5194731c1f391f\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos49419426@cabina.com\",\n      \"band\": \"6adfc34c5d5194731c1f391c\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:17:01.287Z\",\n      \"updatedAt\": \"2026-10-26T21:17:01.745Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda7\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.869Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -4443,7 +4443,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3425d5194731c1f3910\",\n      \"name\": \"Microfono SM58 49407798\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:16:50.483Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.990Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 2,\n  \"pages\": 2\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edaa\",\n      \"name\": \"Microfono SM58 50445721\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.595Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -4524,7 +4524,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3922\",\n      \"name\": \"Microfono SM58 49419426\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.836Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 2,\n  \"pages\": 2\n}"
+              "body": "{\n  \"data\": [],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -4597,7 +4597,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3425d5194731c1f3910\",\n      \"name\": \"Microfono SM58 49407798\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:16:50.483Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.990Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3922\",\n      \"name\": \"Microfono SM58 49419426\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.836Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edaa\",\n      \"name\": \"Microfono SM58 50445721\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.595Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -4670,7 +4670,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3425d5194731c1f3910\",\n      \"name\": \"Microfono SM58 49407798\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:16:50.483Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.990Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3922\",\n      \"name\": \"Microfono SM58 49419426\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.836Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edaa\",\n      \"name\": \"Microfono SM58 50445721\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.595Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -4743,7 +4743,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3425d5194731c1f3910\",\n      \"name\": \"Microfono SM58 49407798\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:16:50.483Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.990Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3922\",\n      \"name\": \"Microfono SM58 49419426\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.836Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edaa\",\n      \"name\": \"Microfono SM58 50445721\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.595Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -4897,7 +4897,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3914\",\n      \"room\": {\n        \"_id\": \"6adfc33f5d5194731c1f3906\",\n        \"name\": \"Sala Norte 49407798\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc3405d5194731c1f390a\",\n        \"name\": \"Los Prismas 49407798\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 10,\n      \"endHour\": 12,\n      \"status\": \"cancelada\",\n      \"createdAt\": \"2026-10-26T21:16:51.860Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.983Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc3435d5194731c1f3914\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 4,\n  \"pages\": 4\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc751c461e17cd105edae\",\n      \"room\": {\n        \"_id\": \"6adfc74dc461e17cd105eda0\",\n        \"name\": \"Sala Norte 50445721\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc74ec461e17cd105eda4\",\n        \"name\": \"Los Prismas 50445721\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 10,\n      \"endHour\": 12,\n      \"status\": \"cancelada\",\n      \"createdAt\": \"2026-10-26T21:34:09.484Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.592Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc751c461e17cd105edae\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 2,\n  \"pages\": 2\n}"
             }
           ]
         },
@@ -4978,7 +4978,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3914\",\n      \"room\": {\n        \"_id\": \"6adfc33f5d5194731c1f3906\",\n        \"name\": \"Sala Norte 49407798\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc3405d5194731c1f390a\",\n        \"name\": \"Los Prismas 49407798\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 10,\n      \"endHour\": 12,\n      \"status\": \"cancelada\",\n      \"createdAt\": \"2026-10-26T21:16:51.860Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.983Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc3435d5194731c1f3914\"\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 4,\n  \"pages\": 4\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edac\",\n      \"room\": {\n        \"_id\": \"6adfc74dc461e17cd105eda0\",\n        \"name\": \"Sala Norte 50445721\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc74ec461e17cd105eda4\",\n        \"name\": \"Los Prismas 50445721\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.372Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc750c461e17cd105edac\"\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 2,\n  \"pages\": 2\n}"
             }
           ]
         },
@@ -5051,7 +5051,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3914\",\n      \"room\": {\n        \"_id\": \"6adfc33f5d5194731c1f3906\",\n        \"name\": \"Sala Norte 49407798\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc3405d5194731c1f390a\",\n        \"name\": \"Los Prismas 49407798\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 10,\n      \"endHour\": 12,\n      \"status\": \"cancelada\",\n      \"createdAt\": \"2026-10-26T21:16:51.860Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.983Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc3435d5194731c1f3914\"\n    },\n    {\n      \"_id\": \"6adfc34f5d5194731c1f3926\",\n      \"room\": {\n        \"_id\": \"6adfc34b5d5194731c1f3918\",\n        \"name\": \"Sala Norte 49419426\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc34c5d5194731c1f391c\",\n        \"name\": \"Los Prismas 49419426\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 10,\n      \"endHour\": 12,\n      \"status\": \"cancelada\",\n      \"createdAt\": \"2026-10-26T21:17:03.675Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.826Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc34f5d5194731c1f3926\"\n    },\n    {\n      \"_id\": \"6adfc3435d5194731c1f3912\",\n      \"room\": {\n        \"_id\": \"6adfc33f5d5194731c1f3906\",\n        \"name\": \"Sala Norte 49407798\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc3405d5194731c1f390a\",\n        \"name\": \"Los Prismas 49407798\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:16:51.137Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.699Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc3435d5194731c1f3912\"\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3924\",\n      \"room\": {\n        \"_id\": \"6adfc34b5d5194731c1f3918\",\n        \"name\": \"Sala Norte 49419426\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc34c5d5194731c1f391c\",\n        \"name\": \"Los Prismas 49419426\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.510Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc34e5d5194731c1f3924\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 4,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc751c461e17cd105edae\",\n      \"room\": {\n        \"_id\": \"6adfc74dc461e17cd105eda0\",\n        \"name\": \"Sala Norte 50445721\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc74ec461e17cd105eda4\",\n        \"name\": \"Los Prismas 50445721\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 10,\n      \"endHour\": 12,\n      \"status\": \"cancelada\",\n      \"createdAt\": \"2026-10-26T21:34:09.484Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.592Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc751c461e17cd105edae\"\n    },\n    {\n      \"_id\": \"6adfc750c461e17cd105edac\",\n      \"room\": {\n        \"_id\": \"6adfc74dc461e17cd105eda0\",\n        \"name\": \"Sala Norte 50445721\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc74ec461e17cd105eda4\",\n        \"name\": \"Los Prismas 50445721\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.372Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc750c461e17cd105edac\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -5124,7 +5124,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3912\",\n      \"room\": {\n        \"_id\": \"6adfc33f5d5194731c1f3906\",\n        \"name\": \"Sala Norte 49407798\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc3405d5194731c1f390a\",\n        \"name\": \"Los Prismas 49407798\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:16:51.137Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.699Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc3435d5194731c1f3912\"\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3924\",\n      \"room\": {\n        \"_id\": \"6adfc34b5d5194731c1f3918\",\n        \"name\": \"Sala Norte 49419426\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc34c5d5194731c1f391c\",\n        \"name\": \"Los Prismas 49419426\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.510Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc34e5d5194731c1f3924\"\n    },\n    {\n      \"_id\": \"6adfc3435d5194731c1f3914\",\n      \"room\": {\n        \"_id\": \"6adfc33f5d5194731c1f3906\",\n        \"name\": \"Sala Norte 49407798\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc3405d5194731c1f390a\",\n        \"name\": \"Los Prismas 49407798\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 10,\n      \"endHour\": 12,\n      \"status\": \"cancelada\",\n      \"createdAt\": \"2026-10-26T21:16:51.860Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.983Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc3435d5194731c1f3914\"\n    },\n    {\n      \"_id\": \"6adfc34f5d5194731c1f3926\",\n      \"room\": {\n        \"_id\": \"6adfc34b5d5194731c1f3918\",\n        \"name\": \"Sala Norte 49419426\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc34c5d5194731c1f391c\",\n        \"name\": \"Los Prismas 49419426\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 10,\n      \"endHour\": 12,\n      \"status\": \"cancelada\",\n      \"createdAt\": \"2026-10-26T21:17:03.675Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.826Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc34f5d5194731c1f3926\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 4,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edac\",\n      \"room\": {\n        \"_id\": \"6adfc74dc461e17cd105eda0\",\n        \"name\": \"Sala Norte 50445721\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc74ec461e17cd105eda4\",\n        \"name\": \"Los Prismas 50445721\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.372Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc750c461e17cd105edac\"\n    },\n    {\n      \"_id\": \"6adfc751c461e17cd105edae\",\n      \"room\": {\n        \"_id\": \"6adfc74dc461e17cd105eda0\",\n        \"name\": \"Sala Norte 50445721\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc74ec461e17cd105eda4\",\n        \"name\": \"Los Prismas 50445721\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 10,\n      \"endHour\": 12,\n      \"status\": \"cancelada\",\n      \"createdAt\": \"2026-10-26T21:34:09.484Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.592Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc751c461e17cd105edae\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -5197,7 +5197,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3912\",\n      \"room\": {\n        \"_id\": \"6adfc33f5d5194731c1f3906\",\n        \"name\": \"Sala Norte 49407798\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc3405d5194731c1f390a\",\n        \"name\": \"Los Prismas 49407798\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:16:51.137Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.699Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc3435d5194731c1f3912\"\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3924\",\n      \"room\": {\n        \"_id\": \"6adfc34b5d5194731c1f3918\",\n        \"name\": \"Sala Norte 49419426\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc34c5d5194731c1f391c\",\n        \"name\": \"Los Prismas 49419426\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.510Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc34e5d5194731c1f3924\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edac\",\n      \"room\": {\n        \"_id\": \"6adfc74dc461e17cd105eda0\",\n        \"name\": \"Sala Norte 50445721\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc74ec461e17cd105eda4\",\n        \"name\": \"Los Prismas 50445721\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.372Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc750c461e17cd105edac\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -5351,7 +5351,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3913\",\n      \"booking\": \"6adfc3435d5194731c1f3912\",\n      \"equipment\": \"6adfc3425d5194731c1f3910\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:16:51.142Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.142Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 4,\n  \"pages\": 4\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edad\",\n      \"booking\": \"6adfc750c461e17cd105edac\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:34:08.854Z\",\n      \"updatedAt\": \"2026-10-26T21:34:08.854Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 1,\n  \"total\": 2,\n  \"pages\": 2\n}"
             }
           ]
         },
@@ -5432,7 +5432,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3915\",\n      \"booking\": \"6adfc3435d5194731c1f3914\",\n      \"equipment\": \"6adfc3425d5194731c1f3910\",\n      \"units\": 1,\n      \"status\": \"devuelto\",\n      \"createdAt\": \"2026-10-26T21:16:51.863Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.994Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 4,\n  \"pages\": 4\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc751c461e17cd105edaf\",\n      \"booking\": \"6adfc751c461e17cd105edae\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 1,\n      \"status\": \"devuelto\",\n      \"createdAt\": \"2026-10-26T21:34:09.486Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.596Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 2,\n  \"limit\": 1,\n  \"total\": 2,\n  \"pages\": 2\n}"
             }
           ]
         },
@@ -5505,7 +5505,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3915\",\n      \"booking\": \"6adfc3435d5194731c1f3914\",\n      \"equipment\": \"6adfc3425d5194731c1f3910\",\n      \"units\": 1,\n      \"status\": \"devuelto\",\n      \"createdAt\": \"2026-10-26T21:16:51.863Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.994Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34f5d5194731c1f3927\",\n      \"booking\": \"6adfc34f5d5194731c1f3926\",\n      \"equipment\": \"6adfc34e5d5194731c1f3922\",\n      \"units\": 1,\n      \"status\": \"devuelto\",\n      \"createdAt\": \"2026-10-26T21:17:03.680Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.839Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3435d5194731c1f3913\",\n      \"booking\": \"6adfc3435d5194731c1f3912\",\n      \"equipment\": \"6adfc3425d5194731c1f3910\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:16:51.142Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.142Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3925\",\n      \"booking\": \"6adfc34e5d5194731c1f3924\",\n      \"equipment\": \"6adfc34e5d5194731c1f3922\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:17:02.795Z\",\n      \"updatedAt\": \"2026-10-26T21:17:02.795Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 4,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc751c461e17cd105edaf\",\n      \"booking\": \"6adfc751c461e17cd105edae\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 1,\n      \"status\": \"devuelto\",\n      \"createdAt\": \"2026-10-26T21:34:09.486Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.596Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc750c461e17cd105edad\",\n      \"booking\": \"6adfc750c461e17cd105edac\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:34:08.854Z\",\n      \"updatedAt\": \"2026-10-26T21:34:08.854Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -5578,7 +5578,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3913\",\n      \"booking\": \"6adfc3435d5194731c1f3912\",\n      \"equipment\": \"6adfc3425d5194731c1f3910\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:16:51.142Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.142Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3925\",\n      \"booking\": \"6adfc34e5d5194731c1f3924\",\n      \"equipment\": \"6adfc34e5d5194731c1f3922\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:17:02.795Z\",\n      \"updatedAt\": \"2026-10-26T21:17:02.795Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc3435d5194731c1f3915\",\n      \"booking\": \"6adfc3435d5194731c1f3914\",\n      \"equipment\": \"6adfc3425d5194731c1f3910\",\n      \"units\": 1,\n      \"status\": \"devuelto\",\n      \"createdAt\": \"2026-10-26T21:16:51.863Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.994Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34f5d5194731c1f3927\",\n      \"booking\": \"6adfc34f5d5194731c1f3926\",\n      \"equipment\": \"6adfc34e5d5194731c1f3922\",\n      \"units\": 1,\n      \"status\": \"devuelto\",\n      \"createdAt\": \"2026-10-26T21:17:03.680Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.839Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 4,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edad\",\n      \"booking\": \"6adfc750c461e17cd105edac\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:34:08.854Z\",\n      \"updatedAt\": \"2026-10-26T21:34:08.854Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc751c461e17cd105edaf\",\n      \"booking\": \"6adfc751c461e17cd105edae\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 1,\n      \"status\": \"devuelto\",\n      \"createdAt\": \"2026-10-26T21:34:09.486Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.596Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -5651,7 +5651,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3913\",\n      \"booking\": \"6adfc3435d5194731c1f3912\",\n      \"equipment\": \"6adfc3425d5194731c1f3910\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:16:51.142Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.142Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3925\",\n      \"booking\": \"6adfc34e5d5194731c1f3924\",\n      \"equipment\": \"6adfc34e5d5194731c1f3922\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:17:02.795Z\",\n      \"updatedAt\": \"2026-10-26T21:17:02.795Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edad\",\n      \"booking\": \"6adfc750c461e17cd105edac\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:34:08.854Z\",\n      \"updatedAt\": \"2026-10-26T21:34:08.854Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -5805,7 +5805,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc34d5d5194731c1f3920\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana49419426@cabina.com\",\n      \"band\": \"6adfc34c5d5194731c1f391c\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:17:01.413Z\",\n      \"updatedAt\": \"2026-10-26T21:17:01.413Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34d5d5194731c1f391f\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos49419426@cabina.com\",\n      \"band\": \"6adfc34c5d5194731c1f391c\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:17:01.287Z\",\n      \"updatedAt\": \"2026-10-26T21:17:01.745Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda8\",\n      \"name\": \"Ana Mora\",\n      \"instrument\": \"bateria\",\n      \"email\": \"ana50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.590Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.590Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc74fc461e17cd105eda7\",\n      \"name\": \"Carlos Vega\",\n      \"instrument\": \"bajo\",\n      \"email\": \"carlos50445721@cabina.com\",\n      \"band\": \"6adfc74ec461e17cd105eda4\",\n      \"active\": true,\n      \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.869Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -5886,7 +5886,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3425d5194731c1f3910\",\n      \"name\": \"Microfono SM58 49407798\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:16:50.483Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.990Z\",\n      \"__v\": 0\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3922\",\n      \"name\": \"Microfono SM58 49419426\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:17:02.106Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.836Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edaa\",\n      \"name\": \"Microfono SM58 50445721\",\n      \"category\": \"audio\",\n      \"totalUnits\": 6,\n      \"availableUnits\": 4,\n      \"createdAt\": \"2026-10-26T21:34:08.223Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.595Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -5975,7 +5975,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc3435d5194731c1f3912\",\n      \"room\": {\n        \"_id\": \"6adfc33f5d5194731c1f3906\",\n        \"name\": \"Sala Norte 49407798\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc3405d5194731c1f390a\",\n        \"name\": \"Los Prismas 49407798\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:16:51.137Z\",\n      \"updatedAt\": \"2026-10-26T21:16:51.699Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc3435d5194731c1f3912\"\n    },\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3924\",\n      \"room\": {\n        \"_id\": \"6adfc34b5d5194731c1f3918\",\n        \"name\": \"Sala Norte 49419426\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc34c5d5194731c1f391c\",\n        \"name\": \"Los Prismas 49419426\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n      \"updatedAt\": \"2026-10-26T21:17:03.510Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc34e5d5194731c1f3924\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 2,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edac\",\n      \"room\": {\n        \"_id\": \"6adfc74dc461e17cd105eda0\",\n        \"name\": \"Sala Norte 50445721\",\n        \"capacity\": 8,\n        \"status\": \"disponible\"\n      },\n      \"band\": {\n        \"_id\": \"6adfc74ec461e17cd105eda4\",\n        \"name\": \"Los Prismas 50445721\",\n        \"genre\": \"jazz\"\n      },\n      \"date\": \"2026-11-05T00:00:00.000Z\",\n      \"startHour\": 15,\n      \"endHour\": 17,\n      \"status\": \"confirmada\",\n      \"notes\": \"Ensayo general\",\n      \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n      \"updatedAt\": \"2026-10-26T21:34:09.372Z\",\n      \"__v\": 0,\n      \"durationHours\": 2,\n      \"id\": \"6adfc750c461e17cd105edac\"\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -6056,7 +6056,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc34e5d5194731c1f3925\",\n      \"booking\": \"6adfc34e5d5194731c1f3924\",\n      \"equipment\": \"6adfc34e5d5194731c1f3922\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:17:02.795Z\",\n      \"updatedAt\": \"2026-10-26T21:17:02.795Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
+              "body": "{\n  \"data\": [\n    {\n      \"_id\": \"6adfc750c461e17cd105edad\",\n      \"booking\": \"6adfc750c461e17cd105edac\",\n      \"equipment\": \"6adfc750c461e17cd105edaa\",\n      \"units\": 2,\n      \"status\": \"prestado\",\n      \"createdAt\": \"2026-10-26T21:34:08.854Z\",\n      \"updatedAt\": \"2026-10-26T21:34:08.854Z\",\n      \"__v\": 0\n    }\n  ],\n  \"page\": 1,\n  \"limit\": 10,\n  \"total\": 1,\n  \"pages\": 1\n}"
             }
           ]
         },
@@ -6133,7 +6133,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "[\n  {\n    \"_id\": \"6adfc34f5d5194731c1f3926\",\n    \"room\": \"6adfc34b5d5194731c1f3918\",\n    \"band\": {\n      \"_id\": \"6adfc34c5d5194731c1f391c\",\n      \"name\": \"Los Prismas 49419426\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:17:00.460Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.938Z\",\n      \"__v\": 0\n    },\n    \"date\": \"2026-11-05T00:00:00.000Z\",\n    \"startHour\": 10,\n    \"endHour\": 12,\n    \"status\": \"cancelada\",\n    \"createdAt\": \"2026-10-26T21:17:03.675Z\",\n    \"updatedAt\": \"2026-10-26T21:17:03.826Z\",\n    \"__v\": 0,\n    \"durationHours\": 2,\n    \"id\": \"6adfc34f5d5194731c1f3926\"\n  },\n  {\n    \"_id\": \"6adfc34e5d5194731c1f3924\",\n    \"room\": \"6adfc34b5d5194731c1f3918\",\n    \"band\": {\n      \"_id\": \"6adfc34c5d5194731c1f391c\",\n      \"name\": \"Los Prismas 49419426\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:17:00.460Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.938Z\",\n      \"__v\": 0\n    },\n    \"date\": \"2026-11-05T00:00:00.000Z\",\n    \"startHour\": 15,\n    \"endHour\": 17,\n    \"status\": \"confirmada\",\n    \"notes\": \"Ensayo general\",\n    \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n    \"updatedAt\": \"2026-10-26T21:17:03.510Z\",\n    \"__v\": 0,\n    \"durationHours\": 2,\n    \"id\": \"6adfc34e5d5194731c1f3924\"\n  }\n]"
+              "body": "[\n  {\n    \"_id\": \"6adfc751c461e17cd105edae\",\n    \"room\": \"6adfc74dc461e17cd105eda0\",\n    \"band\": {\n      \"_id\": \"6adfc74ec461e17cd105eda4\",\n      \"name\": \"Los Prismas 50445721\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.129Z\",\n      \"__v\": 0\n    },\n    \"date\": \"2026-11-05T00:00:00.000Z\",\n    \"startHour\": 10,\n    \"endHour\": 12,\n    \"status\": \"cancelada\",\n    \"createdAt\": \"2026-10-26T21:34:09.484Z\",\n    \"updatedAt\": \"2026-10-26T21:34:09.592Z\",\n    \"__v\": 0,\n    \"durationHours\": 2,\n    \"id\": \"6adfc751c461e17cd105edae\"\n  },\n  {\n    \"_id\": \"6adfc750c461e17cd105edac\",\n    \"room\": \"6adfc74dc461e17cd105eda0\",\n    \"band\": {\n      \"_id\": \"6adfc74ec461e17cd105eda4\",\n      \"name\": \"Los Prismas 50445721\",\n      \"genre\": \"jazz\",\n      \"active\": true,\n      \"contactName\": \"Samuel Fernandez\",\n      \"createdAt\": \"2026-10-26T21:34:06.715Z\",\n      \"updatedAt\": \"2026-10-26T21:34:07.129Z\",\n      \"__v\": 0\n    },\n    \"date\": \"2026-11-05T00:00:00.000Z\",\n    \"startHour\": 15,\n    \"endHour\": 17,\n    \"status\": \"confirmada\",\n    \"notes\": \"Ensayo general\",\n    \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n    \"updatedAt\": \"2026-10-26T21:34:09.372Z\",\n    \"__v\": 0,\n    \"durationHours\": 2,\n    \"id\": \"6adfc750c461e17cd105edac\"\n  }\n]"
             }
           ]
         },
@@ -6200,7 +6200,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "[\n  {\n    \"_id\": \"6adfc34d5d5194731c1f3920\",\n    \"name\": \"Ana Mora\",\n    \"instrument\": \"bateria\",\n    \"email\": \"ana49419426@cabina.com\",\n    \"band\": \"6adfc34c5d5194731c1f391c\",\n    \"active\": true,\n    \"createdAt\": \"2026-10-26T21:17:01.413Z\",\n    \"updatedAt\": \"2026-10-26T21:17:01.413Z\",\n    \"__v\": 0\n  },\n  {\n    \"_id\": \"6adfc34d5d5194731c1f391f\",\n    \"name\": \"Carlos Vega\",\n    \"instrument\": \"bajo\",\n    \"email\": \"carlos49419426@cabina.com\",\n    \"band\": \"6adfc34c5d5194731c1f391c\",\n    \"active\": true,\n    \"createdAt\": \"2026-10-26T21:17:01.287Z\",\n    \"updatedAt\": \"2026-10-26T21:17:01.745Z\",\n    \"__v\": 0\n  }\n]"
+              "body": "[\n  {\n    \"_id\": \"6adfc74fc461e17cd105eda8\",\n    \"name\": \"Ana Mora\",\n    \"instrument\": \"bateria\",\n    \"email\": \"ana50445721@cabina.com\",\n    \"band\": \"6adfc74ec461e17cd105eda4\",\n    \"active\": true,\n    \"createdAt\": \"2026-10-26T21:34:07.590Z\",\n    \"updatedAt\": \"2026-10-26T21:34:07.590Z\",\n    \"__v\": 0\n  },\n  {\n    \"_id\": \"6adfc74fc461e17cd105eda7\",\n    \"name\": \"Carlos Vega\",\n    \"instrument\": \"bajo\",\n    \"email\": \"carlos50445721@cabina.com\",\n    \"band\": \"6adfc74ec461e17cd105eda4\",\n    \"active\": true,\n    \"createdAt\": \"2026-10-26T21:34:07.467Z\",\n    \"updatedAt\": \"2026-10-26T21:34:07.869Z\",\n    \"__v\": 0\n  }\n]"
             }
           ]
         },
@@ -6267,7 +6267,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "[\n  {\n    \"_id\": \"6adfc34f5d5194731c1f3926\",\n    \"room\": {\n      \"_id\": \"6adfc34b5d5194731c1f3918\",\n      \"name\": \"Sala Norte 49419426\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:59.471Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.085Z\",\n      \"__v\": 0\n    },\n    \"band\": \"6adfc34c5d5194731c1f391c\",\n    \"date\": \"2026-11-05T00:00:00.000Z\",\n    \"startHour\": 10,\n    \"endHour\": 12,\n    \"status\": \"cancelada\",\n    \"createdAt\": \"2026-10-26T21:17:03.675Z\",\n    \"updatedAt\": \"2026-10-26T21:17:03.826Z\",\n    \"__v\": 0,\n    \"durationHours\": 2,\n    \"id\": \"6adfc34f5d5194731c1f3926\"\n  },\n  {\n    \"_id\": \"6adfc34e5d5194731c1f3924\",\n    \"room\": {\n      \"_id\": \"6adfc34b5d5194731c1f3918\",\n      \"name\": \"Sala Norte 49419426\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:16:59.471Z\",\n      \"updatedAt\": \"2026-10-26T21:17:00.085Z\",\n      \"__v\": 0\n    },\n    \"band\": \"6adfc34c5d5194731c1f391c\",\n    \"date\": \"2026-11-05T00:00:00.000Z\",\n    \"startHour\": 15,\n    \"endHour\": 17,\n    \"status\": \"confirmada\",\n    \"notes\": \"Ensayo general\",\n    \"createdAt\": \"2026-10-26T21:17:02.790Z\",\n    \"updatedAt\": \"2026-10-26T21:17:03.510Z\",\n    \"__v\": 0,\n    \"durationHours\": 2,\n    \"id\": \"6adfc34e5d5194731c1f3924\"\n  }\n]"
+              "body": "[\n  {\n    \"_id\": \"6adfc751c461e17cd105edae\",\n    \"room\": {\n      \"_id\": \"6adfc74dc461e17cd105eda0\",\n      \"name\": \"Sala Norte 50445721\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.779Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.339Z\",\n      \"__v\": 0\n    },\n    \"band\": \"6adfc74ec461e17cd105eda4\",\n    \"date\": \"2026-11-05T00:00:00.000Z\",\n    \"startHour\": 10,\n    \"endHour\": 12,\n    \"status\": \"cancelada\",\n    \"createdAt\": \"2026-10-26T21:34:09.484Z\",\n    \"updatedAt\": \"2026-10-26T21:34:09.592Z\",\n    \"__v\": 0,\n    \"durationHours\": 2,\n    \"id\": \"6adfc751c461e17cd105edae\"\n  },\n  {\n    \"_id\": \"6adfc750c461e17cd105edac\",\n    \"room\": {\n      \"_id\": \"6adfc74dc461e17cd105eda0\",\n      \"name\": \"Sala Norte 50445721\",\n      \"capacity\": 8,\n      \"floor\": 1,\n      \"hasDrumKit\": true,\n      \"status\": \"disponible\",\n      \"createdAt\": \"2026-10-26T21:34:05.779Z\",\n      \"updatedAt\": \"2026-10-26T21:34:06.339Z\",\n      \"__v\": 0\n    },\n    \"band\": \"6adfc74ec461e17cd105eda4\",\n    \"date\": \"2026-11-05T00:00:00.000Z\",\n    \"startHour\": 15,\n    \"endHour\": 17,\n    \"status\": \"confirmada\",\n    \"notes\": \"Ensayo general\",\n    \"createdAt\": \"2026-10-26T21:34:08.853Z\",\n    \"updatedAt\": \"2026-10-26T21:34:09.372Z\",\n    \"__v\": 0,\n    \"durationHours\": 2,\n    \"id\": \"6adfc750c461e17cd105edac\"\n  }\n]"
             }
           ]
         },
@@ -6332,7 +6332,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "[\n  {\n    \"total\": 2,\n    \"status\": \"cancelada\"\n  },\n  {\n    \"total\": 2,\n    \"status\": \"confirmada\"\n  }\n]"
+              "body": "[\n  {\n    \"total\": 1,\n    \"status\": \"cancelada\"\n  },\n  {\n    \"total\": 1,\n    \"status\": \"confirmada\"\n  }\n]"
             }
           ]
         },
@@ -6397,7 +6397,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "[\n  {\n    \"name\": \"Sala Cabina 49407798\",\n    \"room\": \"6adfc3405d5194731c1f3907\",\n    \"activeBookings\": 0\n  },\n  {\n    \"name\": \"Sala Cabina 49419426\",\n    \"room\": \"6adfc34b5d5194731c1f3919\",\n    \"activeBookings\": 0\n  },\n  {\n    \"name\": \"Sala Norte 49407798\",\n    \"room\": \"6adfc33f5d5194731c1f3906\",\n    \"activeBookings\": 1\n  },\n  {\n    \"name\": \"Sala Norte 49419426\",\n    \"room\": \"6adfc34b5d5194731c1f3918\",\n    \"activeBookings\": 1\n  },\n  {\n    \"name\": \"Sala Sur 49407798\",\n    \"room\": \"6adfc3405d5194731c1f3908\",\n    \"activeBookings\": 0\n  },\n  {\n    \"name\": \"Sala Sur 49419426\",\n    \"room\": \"6adfc34b5d5194731c1f391a\",\n    \"activeBookings\": 0\n  }\n]"
+              "body": "[\n  {\n    \"name\": \"Sala Cabina 50445721\",\n    \"room\": \"6adfc74dc461e17cd105eda1\",\n    \"activeBookings\": 0\n  },\n  {\n    \"name\": \"Sala Norte 50445721\",\n    \"room\": \"6adfc74dc461e17cd105eda0\",\n    \"activeBookings\": 1\n  },\n  {\n    \"name\": \"Sala Sur 50445721\",\n    \"room\": \"6adfc74ec461e17cd105eda2\",\n    \"activeBookings\": 0\n  }\n]"
             }
           ]
         },
@@ -6462,7 +6462,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "[\n  {\n    \"totalUnits\": 12,\n    \"availableUnits\": 8,\n    \"category\": \"audio\"\n  }\n]"
+              "body": "[\n  {\n    \"totalUnits\": 6,\n    \"availableUnits\": 4,\n    \"category\": \"audio\"\n  }\n]"
             }
           ]
         }
@@ -6662,8 +6662,8 @@
               "script": {
                 "type": "text/javascript",
                 "exec": [
-                  "pm.test('Status 400', function () {",
-                  "  pm.response.to.have.status(400);",
+                  "pm.test('Status 409', function () {",
+                  "  pm.response.to.have.status(409);",
                   "});"
                 ]
               }
@@ -6688,7 +6688,7 @@
               ],
               "query": []
             },
-            "description": "Horas invertidas\n\nStatus esperado: 400",
+            "description": "Horas invertidas\n\nStatus esperado: 409",
             "body": {
               "mode": "raw",
               "raw": "{\n  \"room\": \"{{roomId}}\",\n  \"band\": \"{{bandId}}\",\n  \"date\": \"{{bookingDate}}\",\n  \"startHour\": 18,\n  \"endHour\": 16\n}",
@@ -6701,7 +6701,7 @@
           },
           "response": [
             {
-              "name": "400 Bad Request",
+              "name": "409 Conflict",
               "originalRequest": {
                 "method": "POST",
                 "header": [
@@ -6721,7 +6721,7 @@
                   ],
                   "query": []
                 },
-                "description": "Horas invertidas\n\nStatus esperado: 400",
+                "description": "Horas invertidas\n\nStatus esperado: 409",
                 "body": {
                   "mode": "raw",
                   "raw": "{\n  \"room\": \"{{roomId}}\",\n  \"band\": \"{{bandId}}\",\n  \"date\": \"{{bookingDate}}\",\n  \"startHour\": 18,\n  \"endHour\": 16\n}",
@@ -6732,8 +6732,8 @@
                   }
                 }
               },
-              "status": "Bad Request",
-              "code": 400,
+              "status": "Conflict",
+              "code": 409,
               "_postman_previewlanguage": "json",
               "header": [
                 {
@@ -6753,8 +6753,8 @@
               "script": {
                 "type": "text/javascript",
                 "exec": [
-                  "pm.test('Status 400', function () {",
-                  "  pm.response.to.have.status(400);",
+                  "pm.test('Status 409', function () {",
+                  "  pm.response.to.have.status(409);",
                   "});"
                 ]
               }
@@ -6779,7 +6779,7 @@
               ],
               "query": []
             },
-            "description": "Reserva de más de 3 horas\n\nStatus esperado: 400",
+            "description": "Reserva de más de 3 horas\n\nStatus esperado: 409",
             "body": {
               "mode": "raw",
               "raw": "{\n  \"room\": \"{{roomId}}\",\n  \"band\": \"{{bandId}}\",\n  \"date\": \"{{bookingDate}}\",\n  \"startHour\": 8,\n  \"endHour\": 12\n}",
@@ -6792,7 +6792,7 @@
           },
           "response": [
             {
-              "name": "400 Bad Request",
+              "name": "409 Conflict",
               "originalRequest": {
                 "method": "POST",
                 "header": [
@@ -6812,7 +6812,7 @@
                   ],
                   "query": []
                 },
-                "description": "Reserva de más de 3 horas\n\nStatus esperado: 400",
+                "description": "Reserva de más de 3 horas\n\nStatus esperado: 409",
                 "body": {
                   "mode": "raw",
                   "raw": "{\n  \"room\": \"{{roomId}}\",\n  \"band\": \"{{bandId}}\",\n  \"date\": \"{{bookingDate}}\",\n  \"startHour\": 8,\n  \"endHour\": 12\n}",
@@ -6823,8 +6823,8 @@
                   }
                 }
               },
-              "status": "Bad Request",
-              "code": 400,
+              "status": "Conflict",
+              "code": 409,
               "_postman_previewlanguage": "json",
               "header": [
                 {
@@ -7287,7 +7287,7 @@
                   "value": "application/json; charset=utf-8"
                 }
               ],
-              "body": "{\n  \"error\": \"No hay suficientes unidades de Microfono SM58 49419426 (disponibles: 4)\"\n}"
+              "body": "{\n  \"error\": \"No hay suficientes unidades de Microfono SM58 50445721 (disponibles: 4)\"\n}"
             }
           ]
         },
