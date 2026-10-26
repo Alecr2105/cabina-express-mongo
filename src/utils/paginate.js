@@ -1,7 +1,7 @@
 const HttpError = require('./HttpError');
 
 function escapeRegex(text) {
-  return text.replace(/[.*+?^${}()|[\]\]/g, '\$&');
+  return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 /**
