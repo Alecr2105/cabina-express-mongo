@@ -3,6 +3,7 @@ const c = require('../controllers/equipment');
 
 router.post('/', c.create);
 router.get('/', c.list);
+router.get('/stats', c.stats);
 router.get('/:id', c.get);
 router.put('/:id', c.update);
 router.delete('/:id', c.remove);

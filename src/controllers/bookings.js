@@ -56,3 +56,13 @@ exports.get = async (req, res) => {
 };
 
 // TODO (compañero): create, update y cancel con reglas de negocio y transacción
+
+// Cuenta reservas por estado
+exports.stats = async (req, res) => {
+  const stats = await Booking.aggregate([
+    { $group: { _id: '$status', total: { $sum: 1 } } },
+    { $project: { _id: 0, status: '$_id', total: 1 } },
+    { $sort: { status: 1 } },
+  ]);
+  res.json(stats);
+};

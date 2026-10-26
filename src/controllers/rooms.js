@@ -50,3 +50,22 @@ exports.schedule = async (req, res) => {
   const bookings = await Booking.find({ room: room._id, date }).sort({ startHour: 1 }).populate('band');
   res.json(bookings);
 };
+
+// Por sala, cuántas reservas activas (apartada o confirmada) tiene
+exports.stats = async (req, res) => {
+  const stats = await Room.aggregate([
+    {
+      $lookup: {
+        from: 'bookings',
+        let: { roomId: '$_id' },
+        pipeline: [
+          { $match: { $expr: { $eq: ['$room', '$$roomId'] }, status: { $in: ['apartada', 'confirmada'] } } },
+        ],
+        as: 'active',
+      },
+    },
+    { $project: { _id: 0, room: '$_id', name: 1, activeBookings: { $size: '$active' } } },
+    { $sort: { name: 1 } },
+  ]);
+  res.json(stats);
+};

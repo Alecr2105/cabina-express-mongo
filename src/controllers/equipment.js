@@ -23,7 +23,6 @@ exports.list = async (req, res) => {
   });
   res.json(result);
 };
-// TODO: GET /stats (aggregate) va en routes/equipment.js antes de /:id
 
 exports.get = async (req, res) => {
   res.json(await findOrFail(Equipment, req.params.id, 'Equipo'));
@@ -52,4 +51,20 @@ exports.remove = async (req, res) => {
   }
   await equipment.deleteOne();
   res.json({ message: 'Equipo eliminado' });
+};
+
+// Por categoría, unidades totales y disponibles
+exports.stats = async (req, res) => {
+  const stats = await Equipment.aggregate([
+    {
+      $group: {
+        _id: '$category',
+        totalUnits: { $sum: '$totalUnits' },
+        availableUnits: { $sum: '$availableUnits' },
+      },
+    },
+    { $project: { _id: 0, category: '$_id', totalUnits: 1, availableUnits: 1 } },
+    { $sort: { category: 1 } },
+  ]);
+  res.json(stats);
 };
