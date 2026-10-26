@@ -35,7 +35,7 @@ npm run dev
 
 _Pendiente: explicar en qué funciones está, qué colecciones toca y cómo se probó el 409._
 
-## Estado del avance (~50%)
+## Estado del avance (~60%)
 
 Hecho:
 - [x] Configuración, conexión y manejo de errores JSON (400, 404, 409)
@@ -43,12 +43,13 @@ Hecho:
 - [x] Helper de paginación, orden y búsqueda (`src/utils/paginate.js`)
 - [x] CRUD de salas (con `schedule`), bandas, músicos y equipo, con borrados protegidos (409)
 - [x] `GET /api/loans` y `GET /api/loans/:id`
+- [x] `GET /api/bookings` (filtros `status`, `room`, `band`, `date`, `from`, `to`) y `GET /api/bookings/:id`
+- [x] Los tres `aggregate`: `/api/bookings/stats`, `/api/rooms/stats`, `/api/equipment/stats`
 
 Pendiente:
-- [ ] `src/models`/`controllers`/`routes` de **bookings**: POST, GET (filtros `status`, `room`, `band`, `date`, `from`, `to`), GET por id (sala, banda, préstamos con equipo), PUT, PATCH `/:id/cancel`
+- [ ] **bookings**: `POST /`, `PUT /:id` y `PATCH /:id/cancel` (hay TODOs en `controllers/bookings.js` y `routes/bookings.js`)
 - [ ] Reglas de negocio de la reserva (horas, máx. 3 h, fecha, sala disponible, banda activa con músicos, cupo, traslape, cambios de estado)
 - [ ] Transacciones (`startSession` + `withTransaction`) al crear y cancelar, con `$inc` sobre `availableUnits`
-- [ ] Los tres `aggregate`: `/api/bookings/stats`, `/api/rooms/stats`, `/api/equipment/stats` (declarar `/stats` antes de `/:id`)
 - [ ] Colección y environment de Postman (carpetas, examples, tests, consultas y errores)
 - [ ] Completar la sección Transacción de este README
 - [ ] Probar todo contra MongoDB Atlas (lo hecho hasta ahora solo se probó sin base de datos)
