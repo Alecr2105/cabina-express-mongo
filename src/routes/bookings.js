@@ -1,9 +1,11 @@
 const router = require('express').Router();
 const c = require('../controllers/bookings');
 
-// TODO: POST /, PUT /:id y PATCH /:id/cancel
+router.post('/', c.create);
 router.get('/', c.list);
 router.get('/stats', c.stats);
 router.get('/:id', c.get);
+router.put('/:id', c.update);
+router.patch('/:id/cancel', c.cancel);
 
 module.exports = router;
